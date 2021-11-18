@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/learn.h
+
+../include/pointes.h
+
+../include/stringtool.h
+
+/root/kisdy/projects/Demo1/src/main.cc
+stdio.h
+-
+stdlib.h
+-
+dirent.h
+/root/kisdy/projects/Demo1/src/dirent.h
+learn.h
+/root/kisdy/projects/Demo1/src/learn.h
+stringtool.h
+/root/kisdy/projects/Demo1/src/stringtool.h
+pointes.h
+/root/kisdy/projects/Demo1/src/pointes.h
+
+/root/kisdy/projects/Demo1/src/pointes.cpp
+iostream
+-
+stdio.h
+-
+pointes.h
+/root/kisdy/projects/Demo1/src/pointes.h
+
+/root/kisdy/projects/Demo1/src/stringtool.cpp
+stdio.h
+-
+stringtool.h
+/root/kisdy/projects/Demo1/src/stringtool.h
+

@@ -1,0 +1,1 @@
+/usr/bin/x86_64-redhat-linux-g++  -g  -rdynamic CMakeFiles/Demo.dir/src/learn.c.o CMakeFiles/Demo.dir/src/main.cc.o CMakeFiles/Demo.dir/src/pointes.cpp.o CMakeFiles/Demo.dir/src/stringtool.cpp.o  -o ../bin/Demo 

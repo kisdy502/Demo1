@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/learn.h
+
+/root/kisdy/projects/Demo1/src/learn.c
+stdlib.h
+-
+stdio.h
+-
+learn.h
+/root/kisdy/projects/Demo1/src/learn.h
+

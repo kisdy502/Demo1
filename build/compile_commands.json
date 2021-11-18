@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/root/kisdy/projects/Demo1/build",
+  "command": "/usr/bin/x86_64-redhat-linux-gcc  -I/root/kisdy/projects/Demo1/include  -g   -o CMakeFiles/Demo.dir/src/learn.c.o   -c /root/kisdy/projects/Demo1/src/learn.c",
+  "file": "/root/kisdy/projects/Demo1/src/learn.c"
+},
+{
+  "directory": "/root/kisdy/projects/Demo1/build",
+  "command": "/usr/bin/x86_64-redhat-linux-g++   -I/root/kisdy/projects/Demo1/include  -g   -o CMakeFiles/Demo.dir/src/main.cc.o -c /root/kisdy/projects/Demo1/src/main.cc",
+  "file": "/root/kisdy/projects/Demo1/src/main.cc"
+},
+{
+  "directory": "/root/kisdy/projects/Demo1/build",
+  "command": "/usr/bin/x86_64-redhat-linux-g++   -I/root/kisdy/projects/Demo1/include  -g   -o CMakeFiles/Demo.dir/src/pointes.cpp.o -c /root/kisdy/projects/Demo1/src/pointes.cpp",
+  "file": "/root/kisdy/projects/Demo1/src/pointes.cpp"
+},
+{
+  "directory": "/root/kisdy/projects/Demo1/build",
+  "command": "/usr/bin/x86_64-redhat-linux-g++   -I/root/kisdy/projects/Demo1/include  -g   -o CMakeFiles/Demo.dir/src/stringtool.cpp.o -c /root/kisdy/projects/Demo1/src/stringtool.cpp",
+  "file": "/root/kisdy/projects/Demo1/src/stringtool.cpp"
+}
+]
